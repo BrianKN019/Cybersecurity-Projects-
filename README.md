@@ -1,6 +1,6 @@
 # Cybersecurity Repository
 
-Welcome to the Cybersecurity Repository of [Your Organization]. This repository contains documentation and resources related to cybersecurity practices, policies, and procedures implemented within our organization.
+Welcome to the Cybersecurity Project Repository  This repository contains documentation and resources related to cybersecurity practices, policies, and procedures implemented within our organization.HOWEVER , THE PRACTICAL PROJECTS ARE UNDERWAY, WILL BE RELEASED SOON.
 
 ## Table of Contents
 
